@@ -22,7 +22,7 @@
   <a href="mailto:pranjalipu123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pranjal-pant-bb2516270" target="_blank">pranjal-pant-bb2516270/
+  <a href="https://linkedin.com/in/pranjal-pant" target="_blank">pranjal-pant-bb2516270/
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://dotpranjal.github.io" target="_blank">
